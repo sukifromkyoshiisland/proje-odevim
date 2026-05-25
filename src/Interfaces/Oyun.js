@@ -1,0 +1,1 @@
+// Projede kullanılacak veri modelleri ve arayüz tanımlamaları bu klasörde olacaktır.

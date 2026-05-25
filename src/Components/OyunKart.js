@@ -1,0 +1,1 @@
+// İleride oyun kartı bileşenleri bu klasörde toplanacaktır.

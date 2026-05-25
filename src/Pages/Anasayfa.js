@@ -1,0 +1,1 @@
+// Uygulamanın sayfaları ve yönlendirmeleri bu klasörde bulunacaktır.
